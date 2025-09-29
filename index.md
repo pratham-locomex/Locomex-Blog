@@ -9,7 +9,7 @@ layout: lesson-content
 
 At Locomex, we are committed to pushing the boundaries of technology, and we believe that powerful tools are only as good as the documentation that supports them. Whether you're a new user getting started or an experienced partner looking for advanced integrations, you'll find clear, concise, and comprehensive articles to guide you.
 
-{% include figure.html img="OIP.webp" alt="workshop scene" caption="Library workshops!" width="75%" %}
+{% include figure.html img="OIP.webp" alt="workshop scene" caption="Locomex WebPage" width="75%" %}
 
 ### What You'll Find Inside
 
