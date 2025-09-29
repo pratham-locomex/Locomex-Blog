@@ -50,6 +50,13 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 # next-button-color:
 # text-color: 
 # base-font-size:
+header-background: '#FFFFFF'
+header-text-color: '#212529'
+breadcrumbs-background: '#FFFFFF'
+breadcrumbs-text-color: '#212529'
+active-nav-color: '#E1EFE4'
+link-color: '#004D40'
+next-button-color: '#004D40'
 
 ##########
 # URL VARIABLES [optional!]
