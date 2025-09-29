@@ -9,7 +9,7 @@ layout: lesson-content
 
 At Locomex, we are committed to pushing the boundaries of technology, and we believe that powerful tools are only as good as the documentation that supports them. Whether you're a new user getting started or an experienced partner looking for advanced integrations, you'll find clear, concise, and comprehensive articles to guide you.
 
-![An image of a modern, clean workspace with a laptop displaying code or analytics, representing technology and documentation.](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+{% include figure.html img="OIP.webp" alt="workshop scene" caption="Library workshops!" width="75%" %}
 
 ### What You'll Find Inside
 
