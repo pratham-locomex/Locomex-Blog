@@ -243,3 +243,10 @@ div.highlighter-rouge {
     height: 1em;
     vertical-align: -0.1em;
 }
+
+/* Custom style for header logo icon */
+.header-logo-icon {
+  height: 2.5rem; /* Controls the height of the logo */
+  width: auto;    /* Keeps the logo's proportions correct */
+  margin-top: -0.5rem; /* Helps vertically center the logo */
+}
